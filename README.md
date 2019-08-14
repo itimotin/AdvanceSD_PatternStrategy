@@ -1,7 +1,6 @@
 # Strategy Pattern
  
- 
- 
+![Task]()
  
 Add functionality such that this bank supports Savings and Checkings accounts. For all
 accounts we want to add interest, and the interest is calculated with the algorithms given
@@ -21,4 +20,7 @@ have a method addInterest(), and then the interest should be calculated and adde
 accounts.
 * Implement the addInterest() functionality using the strategy pattern in the given code
 
+
+![Strategy ClassDiagram]()
+![Strategy SequenceDiagram]()
 
