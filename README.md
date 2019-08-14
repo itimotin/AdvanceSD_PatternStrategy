@@ -1,6 +1,6 @@
 # Strategy Pattern
  
-![Task]()
+![Task](https://github.com/itimotin/AdvanceSD_PatternStrategy/blob/master/strategyQuestion.png)
  
 Add functionality such that this bank supports Savings and Checkings accounts. For all
 accounts we want to add interest, and the interest is calculated with the algorithms given
@@ -21,6 +21,6 @@ accounts.
 * Implement the addInterest() functionality using the strategy pattern in the given code
 
 
-![Strategy ClassDiagram]()
-![Strategy SequenceDiagram]()
+![Strategy ClassDiagram](https://github.com/itimotin/AdvanceSD_PatternStrategy/blob/master/strategyClassDiagramAnsw.png)
+![Strategy SequenceDiagram](https://github.com/itimotin/AdvanceSD_PatternStrategy/blob/master/strategySequenceAnsw.png)
 
